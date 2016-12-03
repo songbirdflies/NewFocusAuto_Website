@@ -1,0 +1,17 @@
+/* CSS Document */
+body {
+	background-color:#003b80;
+	font-family:"微软雅黑";
+	font-size: 12px;
+	line-height: 16px;
+}
+
+#leftnav{width:193px; background:#ade1f6;}
+#leftnav .paddiv{margin:5px 0px 0px;}
+#leftnav .SystemLefttitle{ padding-left:30px; padding-top:2px; background:url(../Images/navtitle.jpg) no-repeat; color:#fff; font-size:12px; font-weight:500;}
+#leftnav .SystemLeftlist{margin:0px 7px; margin-bottom:5px; padding-top:8px;  width:179px; background:url(../Images/listbg.jpg) repeat-y;}
+#leftnav .SystemLeftlist li{margin:0px; padding:0px; margin-left:20px; list-style-position:outside; list-style:disc; color:#3485c4; font-size:12px;}
+#leftnav .SystemLeftlist .list{height:20px; border-bottom:#b6c9d7 solid 1px;}
+
+#leftnav a{color:#3485c4;}
+#leftnav a:hover{color:#000000;}

@@ -1,0 +1,19 @@
+<script type="text/javascript" src="Js/Style.js"></script>
+<!--左右停顿控制切换Js-->
+<script type="text/javascript" src="Js/LRscroll.js"></script>
+<script type="text/javascript" src="Js/JqueryLR.js"></script>
+<!--左右停顿控制切换Js-->
+<!--向上向左滚动Js-->
+<script type="text/javascript" src="Js/Marquee.js"></script>
+<!--向上向左滚动Js-->
+<!--淡入淡出切换广告Js-->
+<script type="text/javascript" src="Js/JQh_commonv1.1.js"></script>
+<script type="text/javascript" src="Js/JQh_commonv1.2.js"></script>
+<script type="text/javascript" src="Js/JQh_jquery.js"></script>
+<!--淡入淡出切换广告Js-->
+
+
+<!--[if lt IE 7]>
+<script defer type="text/javascript" src="Js/pngfix_inline.js"></script>
+<script defer type="text/javascript" src="Js/pngfix_bg.js"></script>
+<![endif]-->
